@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ellipse_hover.png</file>
+        <file>images/ellipse_normal.png</file>
+        <file>images/ellipse_selected.png</file>
+        <file>images/line_hover.png</file>
+        <file>images/line_normal.png</file>
+        <file>images/line_selected.png</file>
+        <file>images/rect_hover.png</file>
+        <file>images/rect_normal.png</file>
+        <file>images/rect_selected.png</file>
+        <file>images/polygon_hover.png</file>
+        <file>images/polygon_normal.png</file>
+        <file>images/polygon_selected.png</file>
+        <file>images/select_hover.png</file>
+        <file>images/select_normal.png</file>
+        <file>images/select_selected.png</file>
+    </qresource>
+</RCC>
